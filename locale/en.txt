@@ -1,0 +1,50 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = GENERAL DEPARTMENT OF TAXATION
+
+## Skin
+
+### Button
+Button_62108AD7_73F3_09EB_41DC_DE1CEC171FA6.label = Mini Map
+Button_62CBAF48_73ED_08E4_41DA_8ACEB38B6529.label = Contact Us
+
+### Label
+Label_67C0ED9F_73FF_0B9B_41D8_30A7116528C9.text = GDT Tower 4th Floor
+
+## Media
+
+### Title
+map_E21FF5C8_E9E2_8462_41B9_C9F543FC0AEC.label = GDT ID 4TH FLOOR PLAN
+panorama_E02D104C_E9DE_BC61_41C3_3D1CC75CD0BF.label = 08 GDT 4th floor 360 view prefunction 1
+panorama_E02D5298_E9DE_9CE2_41E4_DEBB22E28FC2.label = 07 GDT 4th floor 360 view atrium escalators
+panorama_E02DAA73_E9DF_8C26_41D6_3AEE95985F20.label = 05 GDT 4th floor 360 view VIP changing room
+panorama_E02E0BC9_E9DE_8C62_41E6_EE771EC7974B.label = 14 GDT 4th floor 360 view large sized meeting rooms
+panorama_E02E3292_E9DE_9CE6_41E5_BFCD7F55B924.label = 12 GDT 4th floor 360 view prefunction 3
+panorama_E02E3993_E9DE_8CE7_41E9_C7C70136608A.label = 10 GDT 4th floor 360 view bar lounge area
+panorama_E02E45D2_E9DE_8461_41CF_5FEEA5464470.label = 11 GDT 4th floor 360 view prefunction 2
+panorama_E02E583B_E9DF_8C26_41E4_2758FB728D81.label = 5 GDT 4th floor 360 view prefunction 4
+panorama_E02E7EF8_E9DE_8422_41E3_8D83399176FB.label = 13 GDT 4th floor 360 view small sized meeting rooms
+panorama_E02ECCAC_E9DE_8422_41E0_7D19E6B585A7.label = 09 GDT 4th floor 360 view medium sized meeting room
+panorama_E02ED510_E9DE_85E2_41C7_48ECFD8AC7AA.label = 06 GDT 4th floor 360 view atrium
+panorama_E3CC4005_E9DF_9BE2_4185_DCFC19B09CB3.label = 03 GDT 4th floor 360 view VIP room entrance
+panorama_E3DE9D5A_E9DF_8466_41DE_16D3C1291E10.label = 04 GDT 4th floor 360 view VIP lounge area
+panorama_E3EDC304_E9DF_FDE1_41A6_2B19F6698FDA.label = 02 GDT 4th floor 360 view lift lobby and sculpture
+panorama_E5ED66B3_E9DF_8426_41CE_8E0DD10961A1.label = 01 GDT 4th floor 360 view reception area
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_DA839F86_EA26_84EE_41D8_F7E0EF025C95.toolTip = Dress Room
+HotspotPanoramaOverlayArea_DA91A814_EA23_8BE2_41DC_1F63F1183C12.toolTip = Exit
+
+## Action
+
+### URL
+LinkBehaviour_660B2F2D_76FC_9531_41D0_36A109E662AC.source = https://www.cmedcc.com/
+LinkBehaviour_662CD49A_76F4_EB1C_41CF_3C78D7DD2E72.source = https://www.google.com/maps/place/CMED+Construction+Company/@11.5450478,104.9248668,15z/data=!4m5!3m4!1s0x0:0x7e215fce7b5af38c!8m2!3d11.5450478!4d104.9248668
+LinkBehaviour_67804E93_76FD_9711_41B4_8678E37FE9D1.source = https://www.linkedin.com/company/cmedcc
